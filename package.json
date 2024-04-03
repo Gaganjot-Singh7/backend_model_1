@@ -4,12 +4,13 @@
   "description": "this is backend file",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon source/index.js"
+    "dev": "nodemon source/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.0",
+    "prettier": "^3.2.5"
   }
 }
