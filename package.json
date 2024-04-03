@@ -1,0 +1,15 @@
+{
+  "name": "model_2",
+  "version": "1.0.0",
+  "description": "this is backend file",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon source/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
